@@ -10,9 +10,9 @@ import java.util.Scanner;
  *
  * @author ICT
  */
-public class Assigment12 {
+public class ASM_GD1 {
 
-    static ArrayList<Assigment12> ds = new ArrayList<>();
+    static ArrayList<ASM_GD1> ds = new ArrayList<>();
 
     public static void menu() {
         Scanner sc = new Scanner(System.in);
@@ -83,7 +83,7 @@ public class Assigment12 {
 //        int n = sc.nextInt();
 //        for (int i = 0; i < n; i++) {
 //            System.out.println("nhap pt thu " + i + ": ");
-//            Assigment12 nv = new Assigment12();//khởi tạo đối tương nv
+//            ASM_GD1 nv = new ASM_GD1();//khởi tạo đối tương nv
 //            nv.nhap();
 //            ds.add(nv);
 //        }
